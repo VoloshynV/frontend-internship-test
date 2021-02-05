@@ -70,6 +70,9 @@ body {
                 transition: 0.3s;
             }
         }
+        .no-valid:before {
+            box-shadow: 0 0 10px red;
+        }
     }
     .button {
         margin-top: 30px;
