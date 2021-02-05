@@ -78,7 +78,7 @@ body {
         color: white;
         border: none;
         text-transform: uppercase;
-        &_pink {
+        &:hover {
             background-color: rgb(252, 111, 122);
         }
     }
